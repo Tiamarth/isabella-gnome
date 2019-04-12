@@ -1,9 +1,7 @@
 # Isabella Gtk
-
 This is a theme for gtk and gnome-shell. I generated it from [Arc](https://github.com/NicoHood/arc-theme) using the ["change_color"](https://github.com/NicoHood/arc-theme/blob/master/change_color.sh) bash script from the Arc repo and then further manually modified various elements. It's not perfect, for example I would change the window buttons but I don't know enough about gtk theming to actually do that.
 
 ## Install
-
 Put "Isabella" and/or "Isabella-Light" in `~/.themes` or `/usr/share/themes`
 
 ```shell
