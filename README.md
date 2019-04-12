@@ -12,7 +12,7 @@ mv Isabella ~/.themes
 mv Isabella-Light ~/.themes
 ```
 
-If you want to download Arc and then manually generate this theme here are the commands for that:
+If you want to download Arc and then manually generate this theme, here are the commands for that:
 
 ```shell
 git clone https://github.com/NicoHood/arc-theme --depth 1 && cd arc-theme
