@@ -6,7 +6,7 @@ The icons are also modified from the Arc icon theme, I just dropped them in GIMP
 ![gtk screenshot](https://i.imgur.com/7sGgTb1.png)
 
 ## Install
-Download the [latest gnome zip](https://github.com/Tiamarth/Isabella/releases/download/04%2F14%2F19/gnome.zip) from the [releases tab](https://github.com/Tiamarth/Isabella/releases/) of the repo, and put "Isabella" and/or "Isabella-Light" in `~/.themes` or `/usr/share/themes`. Then put "Isabella-Icons" in `~/.icons` or `/usr/share/icons`.
+Put "Isabella" and/or "Isabella-Light" in `~/.themes` or `/usr/share/themes`. Then put "Isabella-Icons" in `~/.icons` or `/usr/share/icons`.
 
 Or, using your terminal, enter these commands:
 
@@ -14,9 +14,8 @@ Or, using your terminal, enter these commands:
 git clone https://github.com/Tiamarth/Isabella.git && cd Isabella/gnome
 mv Isabella ~/.themes
 mv Isabella-Light ~/.themes
+mv Isabella-Icons ~/.icons
 ```
-
-Note that these commands will clone the whole repo onto your system, including the [Sublime Text color scheme](https://github.com/Tiamarth/Isabella/tree/master/sublime) and the [Vivaldi skin.](https://github.com/Tiamarth/Isabella/tree/master/vivaldi)
 
 If you want to download Arc and then manually generate this theme, here are the commands for that:
 
