@@ -26,3 +26,8 @@ git clone https://github.com/NicoHood/arc-theme --depth 1 && cd arc-theme
 ```
 
 But some colours will be off with this method because the script isn't perfect. I had to further modify the generated files in order to make various aspects of gnome-shell legible.
+
+**Need more help?** Get in touch!
+- join my [Discord server](https://discord.gg/ZfDP2ZV)
+- [Create an issue here on Github](https://github.com/Tiamarth/isabella-gnome/issues/new)
+- [Email me](mailto:jontiamac@gmail.com)
