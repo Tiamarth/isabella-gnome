@@ -29,5 +29,5 @@ But some colours will be off with this method because the script isn't perfect. 
 
 **Need more help?** Get in touch!
 - join my [Discord server](https://discord.gg/ZfDP2ZV)
-- [Create an issue here on Github](https://github.com/Tiamarth/isabella-gnome/issues/new)
+- [Create an issue here on Github](https://github.com/isabella-theme/isabella-gnome/issues/new)
 - [Email me](mailto:jontiamac@gmail.com)
