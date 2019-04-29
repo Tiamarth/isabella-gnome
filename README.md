@@ -11,7 +11,7 @@ Put "Isabella" and/or "Isabella-Light" in `~/.themes` or `/usr/share/themes`. Th
 Or, using your terminal, enter these commands:
 
 ```shell
-git clone https://github.com/Tiamarth/isabella-gnome.git && cd isabella-gnome
+git clone https://github.com/isabella-theme/isabella-gnome.git && cd isabella-gnome
 mv Isabella ~/.themes
 mv Isabella-Light ~/.themes
 mv Isabella-Icons ~/.icons
