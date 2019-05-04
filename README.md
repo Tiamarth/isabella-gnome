@@ -3,7 +3,7 @@ This is a theme for gtk and gnome-shell. I generated it from [Arc](https://githu
 
 The icons are also modified from the Arc icon theme, I just dropped them in GIMP and made them orange.
 
-![gtk screenshot](https://i.imgur.com/7sGgTb1.png)
+![gtk screenshot](https://isabella-theme.github.io/assets/img/isabella-gnome/preview.png)
 
 ## Install
 Put "Isabella" and/or "Isabella-Light" in `~/.themes` or `/usr/share/themes`. Then put "Isabella-Icons" in `~/.icons` or `/usr/share/icons`.
