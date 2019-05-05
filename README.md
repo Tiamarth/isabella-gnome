@@ -1,4 +1,6 @@
-# Isabella gtk
+# Isabella Gnome and GTK
+> or "Arc Grey"
+
 This is a theme for gtk and gnome-shell. I generated it from [Arc](https://github.com/NicoHood/arc-theme) using the ["change_color"](https://github.com/NicoHood/arc-theme/blob/master/change_color.sh) bash script from the Arc repo and then further manually modified various elements. It's not perfect, for example I would change the window buttons but I don't know enough about gtk theming to actually do that.
 
 The icons are also modified from the Arc icon theme, I just dropped them in GIMP and made them orange.
